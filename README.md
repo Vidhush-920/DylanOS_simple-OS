@@ -1,2 +1,2 @@
 # DylanOS_simple-OS
-a Simple OS to display hardware information
+A Simple Operating System which displays the Hardware Information of the computer
